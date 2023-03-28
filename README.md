@@ -8,6 +8,7 @@
   * [資料來源](https://people.sc.fsu.edu/~jburkardt/datasets/knapsack_01/knapsack_01.html)
 ******
 # 爬山演算法(Hill climbing, HC)
-  * 爬山演算法說明
-  * 
+  ## 爬山演算法說明
+     * 爬山演算法是一種模擬爬山行為的一種演算法，如果更新的解優於當前解則更新，反之則否。
+     
 # 模擬退火演算法(Simulated annealing, SA)
