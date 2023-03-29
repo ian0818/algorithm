@@ -7,7 +7,8 @@
 # 測試資料來源
   * [資料來源](https://people.sc.fsu.edu/~jburkardt/datasets/knapsack_01/knapsack_01.html)
 # 檔案說明
-  * 
+  * HA為爬山演算法的資料夾，其中包含ha_algorithm.py主程式，和收斂圖形
+  * SA為爬山演算法的資料夾，其中包含sa_algorithm.py主程式，和收斂圖形
 ******
 # 爬山演算法(Hill climbing, HC)
   ## 爬山演算法說明
